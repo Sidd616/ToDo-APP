@@ -14,7 +14,7 @@ This is a simple Node.js Express application that provides a RESTful API for man
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/Sidd616/ToDo-APP.git
    cd repository-folder
    ```
 
